@@ -1,6 +1,7 @@
 # DMP-ATTOP
 
-This repository contains the data management plan of the ATTOP ERC project.
+This repository contains the data management plan of the [ATTOP ERC project](https://ceisam.univ-nantes.fr/en/erc-projects-2/attop/).
+
 
 # License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
